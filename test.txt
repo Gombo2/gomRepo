@@ -11,3 +11,5 @@ i'm dev22222
 
 feature/login 개발
 빼먹은 기능 마저 개발
+
+ID 찾기 기능 추가.
